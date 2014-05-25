@@ -1,6 +1,6 @@
 ## This script contain 2 functions 
 ##makeCacheMatrix() which accepts a matrix arg and creates an object which contains list of set and get functions.
-## cacheSolve() calculates the inverse of a matrix, if called for a same input retruns 
+## cacheSolve() calculates the inverse of a matrix, if called for a same input returns 
 ## the cached data, without computation
 
 ## Returns a special object which is list of 4 functions coded in this function
